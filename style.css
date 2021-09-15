@@ -1,0 +1,26 @@
+body{
+        
+    text-align: center;
+    background-color:Thistle;
+}
+#apps{
+        height: 800px;
+    background-image: linear-gradient(to bottom right ,Plum ,PaleTurquoise,RosyBrown,LightCoral,PaleTurquoise,Plum);
+}
+#chatbot{
+        height: 800px;
+     background-image: linear-gradient(to bottom right ,BlanchedAlmond,CadetBlue,DarkSalmon,PaleVioletRed,CadetBlue,BlanchedAlmond );
+    
+}
+#Games{
+    
+    height: 800px;
+    background: linear-gradient(to bottom right,BlanchedAlmond,Plum,CadetBlue,PaleTurquoise,DarkSalmon,Plum,CadetBlue,BlanchedAlmond );
+}
+img:hover{
+    transform: scale(0.9);
+}
+.img{
+    height: 600px;
+    width:300px;
+}
